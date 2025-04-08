@@ -38,7 +38,7 @@ pip install -r requirements.txt
 5. **Crea tu archivo .env**
 Guíate en el archivo .env.example
 
-6. **Ejecutar el servidor FastAPI**
+6. **Ejecutar el servidor de FastAPI**
 ```bash
 uvicorn app.main:app --reload --host 0.0.0.0 --port 8002
 ```
