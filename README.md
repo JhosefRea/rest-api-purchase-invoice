@@ -5,7 +5,7 @@ Este es un proyecto de gestión de facturas de compra utilizando **FastAPI** com
 ## 📋 Requisitos
 
 - **Python 3+**
-- **MongoDB** (en ejecución local o en la nube)
+- **MongoDB 8+** (en ejecución local o en la nube)
 
 ## 🔧 Instalación
 # 📖 Pasos para instalar y ejecutar el proyecto
