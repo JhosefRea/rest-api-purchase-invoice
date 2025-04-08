@@ -42,7 +42,7 @@ Guíate en el archivo .env.example
 ```bash
 uvicorn app.main:app --reload --host 0.0.0.0 --port 8002
 ```
-![image](https://github.com/user-attachments/assets/dc57431c-ba80-4710-a8c0-b128ae6abd3e)
+![image](https://github.com/user-attachments/assets/c19d4e9b-92a1-4dfa-902c-2bab55ed0690)
 
 
 ## Créditos 👨🏻‍💻
