@@ -1,0 +1,14 @@
+.env
+/env
+*.pyc
+**/__pycache__/
+/__pycache__/
+/__pycache__
+__pycache__/
+
+#así sí sirve
+__pycache__
+.history
+config/cors_config.py
+app/src/infrastructure/adapters/inbound/routers/
+app/src/infrastructure/config/middlewares/custom_Middleware_Preflight.py

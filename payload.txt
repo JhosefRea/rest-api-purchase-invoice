@@ -1,0 +1,40 @@
+{
+  "id": "EC9141",
+  "createdAt": "2025-01-22T00:00:00.000Z",
+  "paymentDue": "2025-02-21T00:00:00.000Z",
+  "description": "Diseño Gráfico",
+  "paymentTerms": 30,
+  "clientName": "Carlos Pérez",
+  "clientEmail": "carlos.perez@mail.ec",
+  "status": "paid",
+  "senderAddress": {
+    "street": "Av. Amazonas 123",
+    "city": "Quito",
+    "postCode": "170102",
+    "country": "Ecuador"
+  },
+  "clientAddress": {
+    "street": "Calle Flores 456",
+    "city": "Guayaquil",
+    "postCode": "090101",
+    "country": "Ecuador"
+  },
+  "items": [
+    {
+      "name": "Diseño de Banners",
+      "quantity": 1,
+      "price": 150
+    },
+    {
+      "name": "Diseño de Correos Electrónicos",
+      "quantity": 2,
+      "price": 180
+    },
+    {
+      "name": "Diseño de Logotipo",
+      "quantity": 1,
+      "price": 300
+    }
+  ],
+  "total": 810
+}
