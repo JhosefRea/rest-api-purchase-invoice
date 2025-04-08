@@ -35,7 +35,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-5.**Crea tu archivo .env**
+5. **Crea tu archivo .env**
 Guíate en el archivo .env.example
 
 6. **Ejecutar el servidor FastAPI**
